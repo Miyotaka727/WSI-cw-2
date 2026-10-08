@@ -1,2 +1,3 @@
-Name: {Michal Zwierzynski}
+Name: Michal Zwierzynski
 University: PJATK
+Student id: 37632
